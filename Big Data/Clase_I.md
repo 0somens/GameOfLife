@@ -30,4 +30,6 @@ Variabilidad / variedad?
 Velocidad
 Veracidad
 Valor
+
 }
+

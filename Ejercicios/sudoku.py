@@ -30,6 +30,9 @@ cell9 = [0,0,0,0,0,0,0,0,0]
 # Pero ojo, esos números deben respetar la clase rules de otra manera está roto el sudoku
 
 
+# Qué es el backtracking?
+
+
 # Asignar reglas
 class Rules:
     def __init__(self):

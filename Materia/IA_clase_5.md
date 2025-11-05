@@ -26,9 +26,9 @@ Buscar el tema de tensores, para que sirven, el orden va así: vectores -> matri
 Vector [0,1,2,3] 
 Matriz [1,0,0,1]
        [0,1,0,1]
-un tensor sería una matriz de màs dimensiones
+un tensor sería una matriz de más dimensiones (matriz multidimensional)
 
-## Visión general creada por IA -->
+## Visión general creada por IA
 A tensor is a fundamental data structure in machine learning, representing a multi-dimensional array of numerical data. It is a generalization of concepts like scalars (single numbers), vectors (1D arrays), and matrices (2D arrays) to higher dimensions. In TensorFlow, all data is represented as tensors.
 Key properties of a tensor include:
 Rank (or dimensions): The number of axes or dimensions a tensor has. A scalar has rank 0, a vector has rank 1, a matrix has rank 2, and so on.

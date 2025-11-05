@@ -69,7 +69,6 @@ Granularidad: Nivel de detalle de los datos (ventas x dia vs ventas x año)
 Insight: Hallazgo relevante que explica un patrón o tendencia (las ventas suben un 30% en diciembre)
 
 
-
 ## Características fundamentales de la visualizacion de datos
 claridad: debe transmitir la info de manera más directa y comprensible
 Precisión: Los datos deben ser correctos y proporcionales a su valor real, evitar distorciones
@@ -78,3 +77,10 @@ Relevancia: la visualizacion debe centrarse en la información más importante p
 
 ## De donde salen estos datos que se estudian?
 Vienen de diversas fuentes, ventas, terminales POS, ERP, CRM, encuestas,fuentes internas y externas, monitoreo de entornos digitales (ecommerce por ej)
+
+
+Volumen (cantidad de datos) 
+Velocidad (rapidez de generación y procesamiento) 
+Variedad (diversidad de tipos de datos)
+Veracidad (fiabilidad y precisión)
+Valor (utilidad de los datos). 

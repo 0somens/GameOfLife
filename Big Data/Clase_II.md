@@ -51,3 +51,18 @@ Para analizar y extraer información/conocimiento útil que apoye la toma de dec
 
 ## Ejercicio
 
+Conjunto de métodod, tecnologías y enfoques diseñasdos para almacenar procesar y analizar grandes volumenes de daots que son demasiado complejos, variados, o rapidos para ser
+manejados con herramientas convencionales  
+
+
+sirve para tomar decisiones basadas en datos
+automatizar procesos son soporte de IAML
+optimizar operaciones ne timepo real
+crear productos yo servicios perosnalziados
+
+las empresas que lo usan dominan sus datos y ofrecen mejores experiencias
+
+
+Es el motto que permite transformar la abuyndancia de datos en decisiones estratégicas, ventajs y comepetitivas en nuevos modelos de negocio
+
+
