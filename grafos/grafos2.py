@@ -6,7 +6,7 @@ class Vertice:
         self.vecinos = []
 
     def agregarVecino(self, n): #n de neighbor
-        if v not in self.vecinos:
+        if n not in self.vecinos:
             self.vecinos.append(n)
 
 
